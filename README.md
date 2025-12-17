@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13K9hAqKuD4Hd5pWHfcT2KZb0h6zdWe3t#scrollTo=IPuPfjlZizuq)
 Chain-of-Thought Distillation on Qwen-0.5B
 
 This repository implements Parameter-Efficient Fine-Tuning (PEFT) to enhance the mathematical reasoning capabilities of small language models.
